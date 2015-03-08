@@ -1,0 +1,126 @@
+body {
+    background: #f4f4f4;
+    color: #757575;
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 60px;
+}
+
+.container {
+    background: #fff;
+    padding: 70px 75px;
+    margin: 50px auto;
+    border: 1px solid #a5d4fc;
+}
+
+img {
+    max-width: 100%
+}
+
+.propic {
+    border-radius: 10px;
+}
+
+hr {
+    margin: 40px 0;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.3em;
+    background: #fcfcfc;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 1.4em;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 0;
+}
+
+h4 {
+    margin: 15px 0 0;
+}
+
+p,
+a {
+    line-height: 1.7em;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+li {
+    padding: 7px 0;
+}
+
+.dl-share .btn {
+    min-width: 120px;
+}
+
+.signature {
+    font-family: 'Kristi', cursive;
+    color: #3e3f40;
+    font-size: 2.2em;
+    margin-top: 20px;
+}
+
+.social {
+    margin-right: 7px;
+}
+
+.btn .fa {
+    margin-right: 10px;
+}
+
+.secicon.fa {
+    font-size: 28px;
+    color: #000;
+    margin-right: 10px;
+}
+
+.sub {
+    margin-bottom: 15px;
+}
+
+.award {
+    padding-top: 20px;
+}
+
+blockquote {
+    font-size: 1em;
+    padding: 0 15px;
+    margin: 30px 0;
+}
+
+.mainleft {
+    padding-right: 30px;
+}
+
+.testimonials img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 15px;
+    margin-top: -10px;
+    border: 1px solid #ededed;
+}
+
+.year,
+.share {
+    text-align: right;
+}
+
+footer p,
+footer a {
+    font-size: 13px;
+}
