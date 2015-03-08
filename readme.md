@@ -1,3 +1,5 @@
+<a href="http://demo.evenfly.com/view?theme=CVstrap"><img src="http://i0.wp.com/shapebootstrap.net/wp-content/uploads/2015/03/cvstrap-shapebootstrap-cover.jpg?resize=850%2C660" alt="CVstrap - Free Minimal CV HTML5/Bootstrap Template by EvenFly"></a>
+
 CVstrap - Free Minimal CV HTML5/Bootstrap Template by EvenFly
 ------------------------------------
 
@@ -24,7 +26,7 @@ https://creativecommons.org/licenses/by/3.0/
 
 Special Thanks!
 ------------------------------------
-Design: https://www.facebook.com/towkirahmedbappy
-Icons: http://fontawesome.io
-Fonts: http://google.com/fonts
-NiceScroll: https://github.com/inuyaksa/jquery.nicescroll
+- Design: https://www.facebook.com/towkirahmedbappy
+- Icons: http://fontawesome.io
+- Fonts: http://google.com/fonts
+- NiceScroll: https://github.com/inuyaksa/jquery.nicescroll
