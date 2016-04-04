@@ -2,15 +2,15 @@ body {
     background: #f4f4f4;
     color: #757575;
     font-family: 'Alegreya Sans', sans-serif;
-    letter-spacing: 2px;
-    padding-bottom: 60px;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
 }
 
 .container {
     background: #fff;
-    padding: 70px 75px;
-    margin: 50px auto;
-    border: 1px solid #a5d4fc;
+    padding: 50px 45px;
+    margin: 30px auto;
+    border: 1px solid black;
 }
 
 img {
@@ -18,19 +18,17 @@ img {
 }
 
 .propic {
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 hr {
-    margin: 40px 0;
+    margin: 10px 0;
 }
 
 h1 {
     font-size: 2em;
     font-weight: bolder;
     text-transform: uppercase;
-    color: #000;
-    margin: 0;
 }
 
 h2 {
@@ -112,15 +110,15 @@ blockquote {
     float: left;
     margin-right: 15px;
     margin-top: -10px;
-    border: 1px solid #ededed;
+    border: 1px dotted #ededed;
 }
 
 .year,
 .share {
-    text-align: right;
+    text-align: left;
 }
 
 footer p,
 footer a {
-    font-size: 13px;
+    font-size: 8px;
 }
