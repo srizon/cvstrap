@@ -15,6 +15,7 @@ body {
 
 img {
     max-width: 100%
+    max-height: 100%;
 }
 
 .propic {
@@ -22,13 +23,14 @@ img {
 }
 
 hr {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 h1 {
     font-size: 2em;
     font-weight: bolder;
     text-transform: uppercase;
+    font-family: Helvetica, arial;
 }
 
 h2 {
@@ -38,8 +40,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.4em;
-    text-transform: uppercase;
+    font-size: 1.2em;
     color: #000;
     margin-top: 0;
 }
@@ -50,14 +51,14 @@ h4 {
 
 p,
 a {
-    line-height: 1.7em;
+    line-height: 1.5em;
     font-weight: lighter;
     letter-spacing: 1px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 li {
-    padding: 7px 0;
+    padding: 5px 0;
 }
 
 .dl-share .btn {
