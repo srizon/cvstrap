@@ -5,8 +5,8 @@ $(document).ready(
     function () {
         $("html").niceScroll({
             mousescrollstep: 70,
-            cursorcolor: "#2ca8f5",
-            cursorwidth: "6px",
+            cursorcolor: black,
+            cursorwidth: "4px",
             cursorborderradius: "5px",
             cursorborder: "none",
         });
@@ -25,7 +25,7 @@ $(function () {
             if (target.length) {
                 $('html,body').animate({
                     scrollTop: target.offset().top
-                }, 1000);
+                }, 500);
                 return false;
             }
         }
